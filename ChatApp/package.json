@@ -41,7 +41,7 @@
     "passport-local": "^1.0.0",
     "popper.js": "^1.14.6",
     "rtc": "^3.4.0",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "socket.io-file": "^2.0.2"
   }
 }
